@@ -1,2 +1,3 @@
 # hello
-this is a description
+
+this is a repository for kiteAB's video.
